@@ -15,11 +15,11 @@ class App extends Component {
     setTimeout( () =>
       this.setState({
         slideOut: true
-      }), 1000);
+      }), 500);
     setTimeout( () =>
       this.setState({
         fadeIn: true
-      }), 1500);
+      }), 1000);
   }
 
   render(){
