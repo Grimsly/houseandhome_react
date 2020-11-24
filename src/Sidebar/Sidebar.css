@@ -8,7 +8,7 @@
     background: -o-linear-gradient(#100C0E 90%, #5ac8fa 10%);
     background: -moz-linear-gradient(#100C0E 90%, #5ac8fa 10%);
     background: linear-gradient(90deg,#100C0E 95%, #C6655C 5%);
-    transition: right 0.5s;
+    transition: bottom 0.5s, right 0.5s;
 	transition-timing-function: cubic-bezier(0, 1, 0.5, 1);
 }
 
@@ -25,6 +25,13 @@
     border-bottom: 2px solid currentColor;
     display: inline-block;
     line-height: 0.85;
+    cursor: pointer;
+}
+
+@media screen and (max-width: 1500px){
+    .sidebar{
+        width: 37vw;
+    }
 }
 
 @media screen and (max-width: 1100px){
@@ -36,6 +43,10 @@
         background: -webkit-linear-gradient(180deg, #100C0E 90%, #5ac8fa 10%);
         background: -o-linear-gradient(180deg,#100C0E 90%, #5ac8fa 10%);
         background: -moz-linear-gradient(180deg,#100C0E 90%, #5ac8fa 10%);
-        background: linear-gradient(180deg,#100C0E 80%, #C6655C 20%);
+        background: linear-gradient(180deg,#100C0E 85%, #C6655C 15%);
+    }
+
+    .design-button{
+        font-size: 3vh;
     }
 }

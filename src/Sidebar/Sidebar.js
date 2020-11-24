@@ -3,7 +3,7 @@ import './Sidebar.css';
 
 const sidebar = (props) => {
     return (
-        <div className='sidebar' style={{right: props.slideOut ? '0' : '-30vw'}}>
+        <div className='sidebar' style={window.innerWidth > 1100 ? (props.slideOut ? {right: '0'} : {right: '-30vw'}) : (props.slideOut ? {bottom: '0'} : {bottom: '-20vh'})}>
             <div className='design-button'>
                 Design your own
             </div>

@@ -23,6 +23,8 @@ class App extends Component {
   }
 
   render(){
+    
+    console.log(window.innerWidth);
     return (
       <div className="App">
         <Header />
