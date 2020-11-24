@@ -1,0 +1,10 @@
+.content{
+    margin: 40vh 30vw 0 0;
+    width: 70vw;
+    transition: opacity 2s;
+}
+
+.content-title{
+    color: white;
+    font-size: 5rem;
+}
