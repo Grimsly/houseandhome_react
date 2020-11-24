@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/houseandhome_react/static/css/main.f5a27dc9.chunk.css",
+    "main.js": "/houseandhome_react/static/js/main.1a017abc.chunk.js",
+    "main.js.map": "/houseandhome_react/static/js/main.1a017abc.chunk.js.map",
+    "runtime-main.js": "/houseandhome_react/static/js/runtime-main.0811a429.js",
+    "runtime-main.js.map": "/houseandhome_react/static/js/runtime-main.0811a429.js.map",
+    "static/js/2.cae25095.chunk.js": "/houseandhome_react/static/js/2.cae25095.chunk.js",
+    "static/js/2.cae25095.chunk.js.map": "/houseandhome_react/static/js/2.cae25095.chunk.js.map",
+    "static/js/3.a7cb77c8.chunk.js": "/houseandhome_react/static/js/3.a7cb77c8.chunk.js",
+    "static/js/3.a7cb77c8.chunk.js.map": "/houseandhome_react/static/js/3.a7cb77c8.chunk.js.map",
+    "index.html": "/houseandhome_react/index.html",
+    "static/css/main.f5a27dc9.chunk.css.map": "/houseandhome_react/static/css/main.f5a27dc9.chunk.css.map",
+    "static/js/2.cae25095.chunk.js.LICENSE.txt": "/houseandhome_react/static/js/2.cae25095.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/houseandhome_react/static/media/LibreBaskerville-Italic.0ebc99f3.ttf",
+    "static/media/App.css": "/houseandhome_react/static/media/background.f0102ae3.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0811a429.js",
+    "static/js/2.cae25095.chunk.js",
+    "static/css/main.f5a27dc9.chunk.css",
+    "static/js/main.1a017abc.chunk.js"
+  ]
+}
