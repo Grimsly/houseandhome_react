@@ -1,6 +1,6 @@
 @font-face {
-  font-family: 'LibreBaskerville';
-  src: local('LibreBaskerville'), url(./fonts/LibreBaskerville-Italic.ttf) format('ttf');
+  font-family: 'VigaRegular';
+  src: local('VigaRegular'), url(./fonts/Viga-Regular.ttf) format('truetype');
 }
 
 body {
